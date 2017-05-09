@@ -1,0 +1,33 @@
+.Sirkel {
+    width: 25%;
+    height: 200px;
+    border-radius: 50%;
+	float: left;
+}
+.Sirkel2 {
+    width: 25%;
+    height: 200px;
+    border-radius: 50%;
+	float: right;
+}
+.Sirkel3 {
+    width: 50%;
+    height: 200px;
+    border-radius: 50%;
+	float: left	
+}
+.Sirkel4 {
+    background: #EAFF30;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+.bakgrunn  {
+    background-color: #00FFCC;
+\  content: ' \25CF';
+  font-size: 200px;
+}
+.Reklame {
+			
+		
+		}

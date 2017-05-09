@@ -1,0 +1,83 @@
+/*
+ * Start Bootstrap - Business Frontpage (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+/*.tilbakeknapp {
+	background-image: url(../../../../../../Pictures/Tilbakeknapp.png);
+	float: left;
+	width: 350px;
+	height: 350px;
+}
+ */
+.Sirkel {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
+.Kant {
+	border-style: solid;
+ border-color: white;
+}
+.Vkant {
+	border-left-style: dashed;
+	border-left-color: white;
+}
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+.business-header {
+    height: 400px;
+    background-image: url(../Fotball.png);
+    -webkit-background-size: cover;
+}
+/* Customize the text color and shadow color and to optimize text legibility. */
+
+.tagline {
+    text-shadow: 1 1 10px #fff;
+    color: #fff;
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+.tilbakeknapp {
+	background-image: url(../../../../../../Pictures/Tilbakeknapp.png);
+	float: left;
+	width: 250px;
+	height: 250px;
+	
+}
+.center{
+    width: 100px;
+    height: 100px;
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+
+/*
+.Vsidebar {
+	float: left;
+	width: 10%;
+}
+.Hsidebar {
+	float: right;
+	width: inherit;
+}
+	
+
+
+footer {
+    margin: 50px 0;
+}
